@@ -21,3 +21,4 @@ This intent of this guide is to provide an architectural overview of Azure Activ
 ## Login for customers (B2C)
 # Protecting APIs (API Management, JWT Validation)
 ## AuthN/AuthZ for back-end resources (SAS vs OAuth)
+# Identity inside a K8S cluster vs outside the cluster
